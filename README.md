@@ -1,4 +1,4 @@
-# Animating Parsing Algorithms
+# Animation of Parsing Algorithms
 
 Our purpose was to provide students with an enhanced understanding of parsing algorithms, by offering a visual representation that highlights the most significant detail, while simultaneously animating these key features. </br>
 
